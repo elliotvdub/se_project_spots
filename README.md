@@ -15,5 +15,5 @@ TODO - Describe project and its functionality
 
 ### Deployment
 
-This webpage is (soon to be) deployed to GitHub Pages
-[link]()
+This webpage is deployed to GitHub Pages
+[here](https://elliotvdub.github.io/se_project_spots/)
