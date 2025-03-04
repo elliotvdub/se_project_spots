@@ -10,8 +10,8 @@ This website, titled "Spots," serves as a visually engaging gallery and social m
 
 ### Technologies Implimented
 
-- Responsive Design ![responsive](./images/Demo/responsive.gif)
-- Buttons with animation ![button](./images/Demo/button.gif)
+- Responsive Design
+- Buttons with animation
 - HTML & CSS
 - Grid & Flex layouts
 - Vector Graphics
